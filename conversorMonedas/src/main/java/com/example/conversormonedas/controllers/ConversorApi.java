@@ -9,9 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("conversor")
 public interface ConversorApi {
-    @GetMapping
-    ResponseEntity<String> test();
-
     @GetMapping("/convertirAMonedaBase")
     ResponseEntity<Long> convertir(@RequestParam Long monto, @RequestParam String moneda);
 }

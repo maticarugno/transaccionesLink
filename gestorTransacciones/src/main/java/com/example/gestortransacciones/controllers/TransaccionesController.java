@@ -17,11 +17,6 @@ public class TransaccionesController implements TransaccionesApi{
     private final GestorTransaccion gestorTransaccion;
 
     @Override
-    public ResponseEntity<String> test() {
-        return ResponseEntity.ok(gestorTransaccion.test());
-    }
-
-    @Override
     public ResponseEntity<String> iniciarTransaccion(Transaccion transaccion) {
         gestorTransaccion.procesarTransaccion(transaccion);
         return ResponseEntity.ok("Transaccion Iniciada");

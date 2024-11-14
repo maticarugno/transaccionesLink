@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa71dc3a-df7f-439a-b634-7e485f12e6cd" name="Changes" comment="" />
+    <list default="true" id="fa71dc3a-df7f-439a-b634-7e485f12e6cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversorMonedas/src/main/java/com/example/conversormonedas/controllers/ConversorApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/conversorMonedas/src/main/java/com/example/conversormonedas/controllers/ConversorApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversorMonedas/src/main/java/com/example/conversormonedas/controllers/ConversorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/conversorMonedas/src/main/java/com/example/conversormonedas/controllers/ConversorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/controllers/TransaccionesApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/controllers/TransaccionesApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/controllers/TransaccionesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/controllers/TransaccionesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/service/GestorTransaccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/service/GestorTransaccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/service/GestorTransaccionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/service/GestorTransaccionImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +28,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -59,7 +71,7 @@
     "Spring Boot.gestorTransacciones.executor": "Debug",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/maticarugno/IdeaProjects/Workspace/transaccionesLink/commons",
+    "last_opened_file_path": "/home/maticarugno/IdeaProjects/Workspace/transaccionesLink/gestorTransacciones",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +94,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gestorTransacciones" />
       <recent name="$PROJECT_DIR$/commons/src/main/java/org/example/commons/dto" />
       <recent name="$PROJECT_DIR$/validacionTransacciones/src/main/java/com/example/validaciontransacciones" />
     </key>
@@ -157,7 +170,7 @@
       <workItem from="1731375600195" duration="48000" />
       <workItem from="1731375955506" duration="5234000" />
       <workItem from="1731435274737" duration="18229000" />
-      <workItem from="1731550295411" duration="13808000" />
+      <workItem from="1731550295411" duration="17376000" />
     </task>
     <servers />
   </component>

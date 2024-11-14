@@ -12,11 +12,6 @@ public class ConversorController implements ConversorApi {
     private ConversorService conversorService;
 
     @Override
-    public ResponseEntity<String> test() {
-        return ResponseEntity.ok("Test conversor OK");
-    }
-
-    @Override
     public ResponseEntity<Long> convertir(Long monto, String moneda) {
         return ResponseEntity.ok(conversorService.convertir(monto, moneda));
     }

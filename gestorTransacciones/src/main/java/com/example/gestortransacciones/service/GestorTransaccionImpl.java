@@ -27,11 +27,6 @@ public class GestorTransaccionImpl implements GestorTransaccion {
     private final TransaccionSender transaccionSender;
 
     @Override
-    public String test() {
-        return webClient.get().uri("http://localhost:8081/conversor").retrieve().bodyToMono(String.class).block();
-    }
-
-    @Override
     public void procesarTransaccion(Transaccion transaccion) {
         //validar que la transaccion no exista
         if (transaccionRepository.getByTransaccionId(transaccion.getTransaccionId()) != null) {

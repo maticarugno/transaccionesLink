@@ -11,8 +11,6 @@ import java.util.Map;
 @RestController
 @RequestMapping("transacciones")
 public interface TransaccionesApi {
-    @GetMapping("/test")
-    ResponseEntity<String> test();
 
     @PostMapping
     ResponseEntity<String> iniciarTransaccion(@RequestBody Transaccion transaccion);
