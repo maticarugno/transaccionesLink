@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa71dc3a-df7f-439a-b634-7e485f12e6cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversorMonedas/src/main/java/com/example/conversormonedas/controllers/ConversorApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/conversorMonedas/src/main/java/com/example/conversormonedas/controllers/ConversorApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversorMonedas/src/main/java/com/example/conversormonedas/controllers/ConversorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/conversorMonedas/src/main/java/com/example/conversormonedas/controllers/ConversorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/controllers/TransaccionesApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/controllers/TransaccionesApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/controllers/TransaccionesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/controllers/TransaccionesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/service/GestorTransaccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/service/GestorTransaccion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/service/GestorTransaccionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/service/GestorTransaccionImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa71dc3a-df7f-439a-b634-7e485f12e6cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +161,7 @@
       <workItem from="1731375600195" duration="48000" />
       <workItem from="1731375955506" duration="5234000" />
       <workItem from="1731435274737" duration="18229000" />
-      <workItem from="1731550295411" duration="17376000" />
+      <workItem from="1731550295411" duration="17822000" />
     </task>
     <servers />
   </component>

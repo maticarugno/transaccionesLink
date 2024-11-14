@@ -25,6 +25,8 @@ Persistencia:
 Se implemento una base de datos en MongoDB. La misma cuenta con dos colecciones, 
 transaccion para guardar las transacciones, y cotizaciones, para las cotizaciones de las monedas.
 
+Libraries: cree una library con las entidades de la transaccion para que la puedan utilizar todos los microservicios
+
 ## Flujo de una Transaccion
 
 El flujo que seguiria la transaccion en la aplicacion seria el siguiente:
@@ -110,3 +112,4 @@ transaccion en nuestro sistema ya se tiene "a mano" la cotizacion, sin necesidad
 - En el servicio de validacion no se hicieron validaciones reales, pero se deberian validar cosas como si
 una transaccion supera cierto monto, solicitar aprobacion del banco o del usuario.
 - Lo mismo pasa con el sistema de compensacion, se deberia tal vez cancelar la compra o avisarle al usuario mediante alguna notificacion.
+- Hay cierto codigo repetido, como la configuracion de Rabbit, que tal vez se podria manejar desde una library separada
