@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa71dc3a-df7f-439a-b634-7e485f12e6cd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oXS3kkznh9auUqfFgvxJWfveBr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.commons [clean].executor": "Run",
+    "Maven.commons [install].executor": "Run",
+    "Maven.commons [site].executor": "Run",
+    "Maven.compensadorTransaccion [clean].executor": "Run",
+    "Maven.compensadorTransaccion [install].executor": "Run",
+    "Maven.compensadorTransaccion [validate].executor": "Run",
+    "Maven.conversorMonedas [clean].executor": "Run",
+    "Maven.conversorMonedas [install].executor": "Run",
+    "Maven.gestorTransacciones [clean].executor": "Run",
+    "Maven.gestorTransacciones [install].executor": "Run",
+    "Maven.validacionTransacciones [clean].executor": "Run",
+    "Maven.validacionTransacciones [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ValidacionTransaccionesApplication.executor": "Run",
+    "Spring Boot.conversorMonedas.executor": "Run",
+    "Spring Boot.gestorTransacciones.executor": "Debug",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/maticarugno/IdeaProjects/Workspace/transaccionesLink/commons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/commons/src/main/java/org/example/commons/dto" />
+      <recent name="$PROJECT_DIR$/validacionTransacciones/src/main/java/com/example/validaciontransacciones" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.conversorMonedas">
+    <configuration name="CompensadorTransaccionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="compensadorTransaccion" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.compensadortransaccion.CompensadorTransaccionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidacionTransaccionesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="validadorTransacciones" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.validaciontransacciones.ValidacionTransaccionesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conversorMonedas" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="conversorMonedas" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.conversormonedas.ConversorMonedasApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gestorTransacciones" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="gestorTransacciones" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gestortransacciones.GestorTransaccionesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CompensadorTransaccionApplication" />
+      <item itemvalue="Spring Boot.ValidacionTransaccionesApplication" />
+      <item itemvalue="Spring Boot.gestorTransacciones" />
+      <item itemvalue="Spring Boot.conversorMonedas" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa71dc3a-df7f-439a-b634-7e485f12e6cd" name="Changes" comment="" />
+      <created>1731014231828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731014231828</updated>
+      <workItem from="1731014232913" duration="2653000" />
+      <workItem from="1731103788676" duration="230000" />
+      <workItem from="1731375600195" duration="48000" />
+      <workItem from="1731375955506" duration="5234000" />
+      <workItem from="1731435274737" duration="18229000" />
+      <workItem from="1731550295411" duration="13808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gestorTransacciones/src/main/java/com/example/gestortransacciones/repositories/TransaccionCustomRepositoryImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/validacionTransacciones/src/main/java/com/example/validaciontransacciones/service/ValidadorTransaccionImpl.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
